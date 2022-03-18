@@ -1,2 +1,5 @@
 # Wikipedia
-Make a random wikipedia site alone with CSS and HTML
+Creating a Wikipedia page alone from learning HTML and CSS
+
+* Link for the site:
+wikipedia-html-css.netlify.app
